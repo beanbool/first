@@ -1,2 +1,3 @@
-This is a git project.
-this is second line.
+This is a git project and this is first line.
+This is second line.
+How are you?
